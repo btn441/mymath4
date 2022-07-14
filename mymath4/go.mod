@@ -1,3 +1,3 @@
-module github.com/username/mymath4
+module github.com/btn441/mymath4
 
 go 1.16
